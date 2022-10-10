@@ -72,7 +72,7 @@
                 <div class="mt-8">
                     <span class="text-sky-500 uppercase tracking-wider">Article</span>
 
-                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
+                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white truncate">
                         What do you want to know about UI
                     </h1>
 
@@ -102,7 +102,7 @@
                 <div class="mt-8">
                     <span class="text-sky-500 uppercase tracking-wider">Article</span>
 
-                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
+                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white truncate">
                         All the features you want to know</h1>
 
                     <p class="mt-2 text-gray-500 dark:text-gray-400">
@@ -131,7 +131,7 @@
                 <div class="mt-8">
                     <span class="text-sky-500 uppercase tracking-wider">Article</span>
 
-                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
+                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white truncate">
                         Which services you get from Meraki UI
                     </h1>
 
@@ -156,7 +156,7 @@
         </div>
     </section>
 
-    <section class=" container mx-auto px-4 py-16">
+    <section class=" container mx-auto px-4 py-10 lg:py-16">
         <div class=" flex items-center justify-between">
             <h2 class=" text-gray-800 font-bold text-3xl">Podcasts</h2>
 
@@ -171,13 +171,13 @@
 
         <div class="grid grid-cols-1 gap-8 md:grid-cols-2 mt-12 xl:grid-cols-3">
             <div>
-                <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://images.unsplash.com/photo-1624996379697-f01d168b1a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="">
+                <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbDroD8JBly4YN-kttERe-REhf1Ago4jgen2nZFLR0wjm2IKU" alt="">
 
                 <div class="mt-8">
-                    <span class="text-sky-500 uppercase tracking-wider">Article</span>
+                    <span class="text-sky-500 uppercase tracking-wider">Podcast</span>
 
-                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
-                        What do you want to know about UI
+                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white truncate">
+                        057: DevTools Mini Series - Interaction
                     </h1>
 
                     <p class="mt-2 text-gray-500 dark:text-gray-400">
@@ -194,49 +194,20 @@
                             <p class="text-sm text-gray-500 dark:text-gray-400">February 1, 2022</p>
                         </div>
 
-                        <a href="#" class="inline-block text-sky-500 underline hover:text-sky-400">Read more</a>
+                        <a href="#" class="inline-block text-sky-500 underline hover:text-sky-400">Open Episode</a>
                     </div>
 
                 </div>
             </div>
 
             <div>
-                <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="">
+                <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb1UizkegO75CK7joXI5YU_PyD-PrAKQj2reAOV99r4O5Ic3Y" alt="">
 
                 <div class="mt-8">
-                    <span class="text-sky-500 uppercase tracking-wider">Article</span>
+                    <span class="text-sky-500 uppercase tracking-wider">Podcast</span>
 
-                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
-                        All the features you want to know</h1>
-
-                    <p class="mt-2 text-gray-500 dark:text-gray-400">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam est asperiores vel, ab animi
-                        recusandae nulla veritatis id tempore sapiente
-                    </p>
-
-                    <div class="flex items-center justify-between mt-4">
-                        <div>
-                            <a href="#" class="text-lg font-medium text-gray-700 dark:text-gray-300 hover:underline hover:text-gray-500">
-                                Arthur Melo
-                            </a>
-
-                            <p class="text-sm text-gray-500 dark:text-gray-400">February 6, 2022</p>
-                        </div>
-
-                        <a href="#" class="inline-block text-sky-500 underline hover:text-sky-400">Read more</a>
-                    </div>
-
-                </div>
-            </div>
-
-            <div>
-                <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://images.unsplash.com/photo-1597534458220-9fb4969f2df5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" alt="">
-
-                <div class="mt-8">
-                    <span class="text-sky-500 uppercase tracking-wider">Article</span>
-
-                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
-                        Which services you get from Meraki UI
+                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white truncate">
+                        Steal From Other Hobbies
                     </h1>
 
                     <p class="mt-2 text-gray-500 dark:text-gray-400">
@@ -247,13 +218,43 @@
                     <div class="flex items-center justify-between mt-4">
                         <div>
                             <a href="#" class="text-lg font-medium text-gray-700 dark:text-gray-300 hover:underline hover:text-gray-500">
-                                Tom Hank
+                                Jeffrey Way
+                            </a>
+
+                            <p class="text-sm text-gray-500 dark:text-gray-400">February 6, 2022</p>
+                        </div>
+
+                        <a href="#" class="inline-block text-sky-500 underline hover:text-sky-400">Open Episode</a>
+                    </div>
+
+                </div>
+            </div>
+
+            <div>
+                <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9M4BrVwjAO9HM8h1tNhWJ0iOah_ERztSZKs8D2DrxSexPFs" alt="">
+
+                <div class="mt-8">
+                    <span class="text-sky-500 uppercase tracking-wider">Podcast</span>
+
+                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white truncate">
+                        152: Ben Orenstein - How to Stand Out When Applying for a Job at a Small Company
+                    </h1>
+
+                    <p class="mt-2 text-gray-500 dark:text-gray-400">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam est asperiores vel, ab animi
+                        recusandae nulla veritatis id tempore sapiente
+                    </p>
+
+                    <div class="flex items-center justify-between mt-4">
+                        <div>
+                            <a href="#" class="text-lg font-medium text-gray-700 dark:text-gray-300 hover:underline hover:text-gray-500">
+                                Adam Wathan
                             </a>
 
                             <p class="text-sm text-gray-500 dark:text-gray-400">February 19, 2022</p>
                         </div>
 
-                        <a href="#" class="inline-block text-sky-500 underline hover:text-sky-400">Read more</a>
+                        <a href="#" class="inline-block text-sky-500 underline hover:text-sky-400">Open Episode</a>
                     </div>
                 </div>
             </div>
@@ -261,7 +262,7 @@
     </section>
 
     <section class="bg-white dark:bg-gray-900">
-        <div class="container px-4 py-16 mx-auto lg:flex lg:items-center lg:justify-between">
+        <div class="container px-4 py-10 lg:py-16 mx-auto lg:flex lg:items-center lg:justify-between">
             <h2 class="text-2xl font-semibold tracking-tight text-gray-800 xl:text-3xl dark:text-white">
                 Join us and get the update from anywhere
             </h2>
@@ -280,7 +281,7 @@
         </div>
     </section>
 
-    <section class=" container mx-auto px-4 py-16">
+    <section class=" container mx-auto px-4 py-10 lg:py-16">
         <div class=" flex items-center justify-between">
             <h2 class=" text-gray-800 font-bold text-3xl">Most Popular</h2>
 
@@ -293,14 +294,14 @@
             </button>
         </div>
 
-        <div class="grid grid-cols-1 gap-8 md:grid-cols-2 mt-12 xl:grid-cols-3">
+                <div class="grid grid-cols-1 gap-8 md:grid-cols-2 mt-12 xl:grid-cols-3">
             <div>
                 <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://images.unsplash.com/photo-1624996379697-f01d168b1a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="">
 
                 <div class="mt-8">
                     <span class="text-sky-500 uppercase tracking-wider">Article</span>
 
-                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
+                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white truncate">
                         What do you want to know about UI
                     </h1>
 
@@ -330,7 +331,7 @@
                 <div class="mt-8">
                     <span class="text-sky-500 uppercase tracking-wider">Article</span>
 
-                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
+                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white truncate">
                         All the features you want to know</h1>
 
                     <p class="mt-2 text-gray-500 dark:text-gray-400">
@@ -359,7 +360,7 @@
                 <div class="mt-8">
                     <span class="text-sky-500 uppercase tracking-wider">Article</span>
 
-                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
+                    <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white truncate">
                         Which services you get from Meraki UI
                     </h1>
 
@@ -398,27 +399,29 @@
                 <p class="max-w-md mx-auto mt-4 text-gray-500 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
 
                 <div class="flex flex-col mt-6 sm:flex-row sm:items-center sm:justify-center">
-                    <button class="flex items-center justify-center order-1 w-full px-5 py-2.5 mt-3 text-sm tracking-wide text-gray-600 capitalize transition-colors duration-300 transform border rounded-md sm:mx-2 dark:border-gray-400 dark:text-gray-300 sm:mt-0 sm:w-auto hover:bg-gray-50 focus:outline-none focus:ring dark:hover:bg-gray-800 focus:ring-gray-300 focus:ring-opacity-40">
-                        <svg class="w-5 h-5 mx-1" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C21.9939 17.5203 17.5203 21.9939 12 22ZM4 12.172C4.04732 16.5732 7.64111 20.1095 12.0425 20.086C16.444 20.0622 19.9995 16.4875 19.9995 12.086C19.9995 7.68451 16.444 4.10977 12.0425 4.086C7.64111 4.06246 4.04732 7.59876 4 12V12.172ZM10 16.5V7.5L16 12L10 16.5Z" fill="currentColor"></path>
-                        </svg>
-
-                        <span class="mx-1">View Demo</span>
+                    <button class="order-1 w-full px-5 py-2.5 mt-3 text-sm tracking-wide text-gray-600 capitalize transition-colors duration-300 transform border rounded-md sm:mx-2 dark:border-gray-400 dark:text-gray-300 sm:mt-0 sm:w-auto hover:bg-gray-50 focus:outline-none focus:ring dark:hover:bg-gray-800 focus:ring-gray-300 focus:ring-opacity-40">
+                        <div class="flex items-center justify-center -mx-1">
+                            <svg class="w-5 h-5 mx-1" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C21.9939 17.5203 17.5203 21.9939 12 22ZM4 12.172C4.04732 16.5732 7.64111 20.1095 12.0425 20.086C16.444 20.0622 19.9995 16.4875 19.9995 12.086C19.9995 7.68451 16.444 4.10977 12.0425 4.086C7.64111 4.06246 4.04732 7.59876 4 12V12.172ZM10 16.5V7.5L16 12L10 16.5Z" fill="currentColor"></path>
+                            </svg>
+    
+                            <span class="mx-1">View Demo</span>
+                        </div>
                     </button>
 
                     <button class="w-full px-5 py-2.5 text-sm tracking-wide text-white capitalize transition-colors duration-300 transform bg-sky-500 rounded-md sm:mx-2 sm:order-2 sm:w-auto hover:bg-sky-400 focus:outline-none focus:ring focus:ring-sky-300 focus:ring-opacity-80">Get started</button>
                 </div>
             </div>
 
-            <div class="flex flex-col mt-16 items-center sm:flex-row sm:justify-between">
-                <p class="text-sm text-gray-400">© Copyright 2021. All Rights Reserved.</p>
+            <div class="flex flex-col mt-10 md:mt-20 items-center sm:flex-row sm:justify-between">
+                <p class="text-sm text-gray-600">© Copyright 2021. All Rights Reserved.</p>
 
-                <div class="flex mt-3 -mx-2 sm:mt-0">
-                    <a href="#" class="mx-2 text-sm text-gray-400 transition-colors duration-300 hover:text-gray-500 dark:hover:text-gray-300" aria-label="Reddit"> Teams </a>
+                <div class="flex mt-3 -mx-3 sm:mt-0">
+                    <a href="#" class="mx-3 text-sm text-gray-600 transition-colors duration-300 hover:text-gray-500 dark:hover:text-gray-300" aria-label="Reddit"> Teams </a>
 
-                    <a href="#" class="mx-2 text-sm text-gray-400 transition-colors duration-300 hover:text-gray-500 dark:hover:text-gray-300" aria-label="Reddit"> Privacy </a>
+                    <a href="#" class="mx-3 text-sm text-gray-600 transition-colors duration-300 hover:text-gray-500 dark:hover:text-gray-300" aria-label="Reddit"> Privacy </a>
 
-                    <a href="#" class="mx-2 text-sm text-gray-400 transition-colors duration-300 hover:text-gray-500 dark:hover:text-gray-300" aria-label="Reddit"> Cookies </a>
+                    <a href="#" class="mx-3 text-sm text-gray-600 transition-colors duration-300 hover:text-gray-500 dark:hover:text-gray-300" aria-label="Reddit"> Cookies </a>
                 </div>
             </div>
         </div>
